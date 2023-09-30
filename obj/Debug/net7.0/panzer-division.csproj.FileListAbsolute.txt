@@ -1,0 +1,14 @@
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\bin\Debug\net7.0\panzer-division.exe
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\bin\Debug\net7.0\panzer-division.deps.json
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\bin\Debug\net7.0\panzer-division.runtimeconfig.json
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\bin\Debug\net7.0\panzer-division.dll
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\bin\Debug\net7.0\panzer-division.pdb
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\obj\Debug\net7.0\panzer-division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\obj\Debug\net7.0\panzer-division.AssemblyInfoInputs.cache
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\obj\Debug\net7.0\panzer-division.AssemblyInfo.cs
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\obj\Debug\net7.0\panzer-division.csproj.CoreCompileInputs.cache
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\obj\Debug\net7.0\panzer-division.dll
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\obj\Debug\net7.0\refint\panzer-division.dll
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\obj\Debug\net7.0\panzer-division.pdb
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\obj\Debug\net7.0\panzer-division.genruntimeconfig.cache
+C:\Users\rrocl\Desktop\CodeCool\C#\panzer_division\obj\Debug\net7.0\ref\panzer-division.dll
